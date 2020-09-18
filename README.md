@@ -30,3 +30,10 @@
 - sound input & output device chooser
 - system-monitor
 - window navigator
+
+## phpstorm
+- key promoter x
+- lines sorter
+- nyan progress bar
+- rainglow color schems
+- tab shifter
